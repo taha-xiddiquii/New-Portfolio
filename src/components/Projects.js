@@ -131,7 +131,7 @@ export default function Projects() {
               Interested in seeing more of my work?
             </p>
             <a
-              href="https://github.com"
+              href="https://github.com/taha-xiddiquii"
               className="btn btn-primary btn-lg px-5 hover-lift"
             >
               View All Projects on GitHub

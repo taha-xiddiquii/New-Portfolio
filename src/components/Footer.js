@@ -2,7 +2,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-dark border-top" style={{ borderColor: 'var(--border-color)' }}>
+    <footer className="border-top" style={{ backgroundColor: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
       <div className="container py-5">
         <div className="row g-4">
           <div className="col-md-4">
@@ -31,16 +31,16 @@ export default function Footer() {
           <div className="col-md-4">
             <h5 className="text-accent mb-3">Connect</h5>
             <div className="d-flex gap-3">
-              <a href="https://github.com/TahaSiddiqui18" className="text-secondary text-decoration-none hover-glow" aria-label="GitHub">
+              <a href="https://github.com/taha-xiddiquii" className="text-secondary text-decoration-none hover-glow" aria-label="GitHub">
                 <i className="fab fa-github fa-lg"></i>
               </a>
-              <a href="https://www.linkedin.com/in/taha-xiddiqui-b36686301/" className="text-secondary text-decoration-none hover-glow" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/taha-xiddiquii/" className="text-secondary text-decoration-none hover-glow" aria-label="LinkedIn">
                 <i className="fab fa-linkedin fa-lg"></i>
               </a>
-              <a href="https://www.instagram.com/xiddiqui_hun_yawr/" className="text-secondary text-decoration-none hover-glow" aria-label="Instagram">
+              <a href="https://www.instagram.com/taha_xiddiquii/" className="text-secondary text-decoration-none hover-glow" aria-label="Instagram">
                 <i className="fab fa-instagram fa-lg"></i>
               </a>
-              <a href="mailto:hafiz.taha.siddiqui@gmail.com" className="text-secondary text-decoration-none hover-glow" aria-label="Email">
+              <a href="mailto:tahaxiddiqui17@gmail.com" className="text-secondary text-decoration-none hover-glow" aria-label="Email">
                 <i className="fas fa-envelope fa-lg"></i>
               </a>
             </div>

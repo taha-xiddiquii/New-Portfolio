@@ -68,13 +68,13 @@ export default function Contact() {
             <div className="mb-4">
               <h6 className="text-secondary mb-2">Email</h6>
               <a href="mailto:hafiz.taha.siddiqui@gmail.com" className="text-light">
-                hafiz.taha.siddiqui@gmail.com
+                tahaxiddiqui17@gmail.com
               </a>
             </div>
             <div className="mb-4">
               <h6 className="text-secondary mb-2">Location</h6>
               <p className="text-light">
-                Pakistan
+                Karachi,Pakistan
               </p>
             </div>
             <div className="mb-4">
@@ -86,7 +86,7 @@ export default function Contact() {
                 <a href="https://www.linkedin.com/in/taha-xiddiqui-b36686301/" className="text-accent text-decoration-none hover-glow" title="LinkedIn">
                   LinkedIn
                 </a>
-                <a href="https://www.instagram.com/xiddiqui_hun_yawr/" className="text-accent text-decoration-none hover-glow" title="Instagram">
+                <a href="https://www.instagram.com/taha_xiddiquii/" className="text-accent text-decoration-none hover-glow" title="Instagram">
                   Instagram
                 </a>
                 <a href="https://www.facebook.com/taha.siddiqui.77985741" className="text-accent text-decoration-none hover-glow" title="Facebook">
@@ -127,7 +127,7 @@ export default function Contact() {
                         value={formData.name}
                         onChange={handleChange}
                         required
-                        placeholder="John Doe"
+                        placeholder="Hafiz Taha Siddiqui"
                       />
                     </div>
                     <div className="col-md-6">
@@ -142,7 +142,7 @@ export default function Contact() {
                         value={formData.email}
                         onChange={handleChange}
                         required
-                        placeholder="john@example.com"
+                        placeholder="tahaxiddiqui17@gmail.com"
                       />
                     </div>
                     <div className="col-12">
@@ -172,7 +172,7 @@ export default function Contact() {
                         value={formData.message}
                         onChange={handleChange}
                         required
-                        placeholder="Your message here..."
+                        placeholder="Message me if you want......!!!!"
                       ></textarea>
                     </div>
                     <div className="col-12">

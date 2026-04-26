@@ -50,6 +50,19 @@ main {
   min-height: 100vh;
 }
 
+footer {
+  background-color: var(--card-bg);
+  color: var(--text-primary);
+}
+
+footer a {
+  color: var(--text-secondary) !important;
+}
+
+footer a:hover {
+  color: var(--accent-color) !important;
+}
+
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   color: var(--text-primary);

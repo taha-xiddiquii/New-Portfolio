@@ -50,7 +50,7 @@ export default function Navbar() {
     >
       <div className="container">
         <a className="navbar-brand animate-fadeIn" href="#home">
-          {'<Taha Siddiqui />'}
+          {'<Hafiz Taha Siddiqui />'}
         </a>
         <button
           className="navbar-toggler"

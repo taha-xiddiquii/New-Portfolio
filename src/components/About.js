@@ -88,7 +88,7 @@ export default function About() {
                   <div className="col-sm-6">
                     <div className="card bg-transparent border-1">
                       <div className="card-body text-center">
-                        <h3 className="text-accent mb-2">50+</h3>
+                        <h3 className="text-accent mb-2">5+</h3>
                         <p className="text-secondary mb-0">Projects Completed</p>
                       </div>
                     </div>
@@ -96,7 +96,7 @@ export default function About() {
                   <div className="col-sm-6">
                     <div className="card bg-transparent border-1">
                       <div className="card-body text-center">
-                        <h3 className="text-accent mb-2">5+</h3>
+                        <h3 className="text-accent mb-2">3</h3>
                         <p className="text-secondary mb-0">Years Experience</p>
                       </div>
                     </div>
